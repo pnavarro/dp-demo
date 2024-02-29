@@ -109,11 +109,11 @@ sudo subscription-manager release --set=9.3
 sudo dnf install -y podman
 ````
 
-```
-Log off
+#### Log off
 ```
 logout
 ```
+
 ### Snapshot the Compute
 
 ```
