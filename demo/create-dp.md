@@ -110,6 +110,7 @@ sudo dnf install -y podman
 ````
 
 #### Log off
+
 ```
 logout
 ```
